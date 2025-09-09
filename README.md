@@ -13,7 +13,7 @@ O projeto inclui:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.8+**
+- **Python 3.12+**
 - **Machine Learning**: scikit-learn
 - **Análise de Dados**: pandas, numpy
 - **Visualização**: matplotlib, seaborn, pingouin
@@ -89,6 +89,7 @@ O modelo final apresenta as seguintes métricas de performance:
 - **% Diferença RMSE**: Controle de overfitting
 
 ## 🚀 Como Executar o Projeto
+OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo caso esteja faltando alguma dependencia. É uma alternativa ao arquivo requirements.txt.
 
 ### 1. Instalação das Dependências
 
@@ -174,7 +175,7 @@ A interface Streamlit permite:
 
 ## 📝 Requisitos do Sistema
 
-- **Python**: 3.8 ou superior
+- **Python**: 3.12 ou superior
 - **Memória RAM**: Mínimo 4GB
 - **Espaço em Disco**: 500MB livres
 
@@ -182,14 +183,4 @@ A interface Streamlit permite:
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Por favor:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
 
